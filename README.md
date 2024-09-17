@@ -8,5 +8,5 @@ The application allows user to input ingredients and recieve possible recipes th
 1. Clone directory locally to your machine.
 2. 
 
-Libraries:
+**Libraries Used:**
 
